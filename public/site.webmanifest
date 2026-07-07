@@ -1,0 +1,23 @@
+{
+  "name": "Toolix Premium Utilities Hub",
+  "short_name": "Toolix",
+  "description": "Professional offline-capable utility tools platform. Fast, secure, and completely client-side.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "categories": ["utilities", "productivity", "developer"],
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
