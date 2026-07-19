@@ -1,6 +1,0 @@
-{
-  "name": "Toolix",
-  "description": "Professional global utility tools platform featuring a suite of clean, secure, and modern online calculators, converters, formatting, and generation tools.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
